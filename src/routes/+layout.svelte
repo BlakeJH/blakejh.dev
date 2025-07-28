@@ -5,6 +5,5 @@
     let { children } = $props();
 </script>
 
-{@render children()}
-
 <Navbar></Navbar>
+{@render children()}

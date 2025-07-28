@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c9b3928-7be4-4c12-b5a9-fdf55d8dc46c" name="Changes" comment="" />
+    <list default="true" id="4c9b3928-7be4-4c12-b5a9-fdf55d8dc46c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ProjectCard.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/about/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/contact/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/projects/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/reverb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/NavButton.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/NavButton.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/Navbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +26,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Navbar" />
         <option value="NavIcon" />
         <option value="+page" />
+        <option value="Background" />
+        <option value="Navbar" />
+        <option value="ProjectCard" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BlakeJH&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BlakeJH/blakejh.dev.git&quot;,
+    &quot;accountId&quot;: &quot;608982e0-c721-42e1-b50e-bc493a0cb57c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -35,7 +62,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/blake/Desktop/Programing Dev/Javascript - HTML - CSS/Web Dev/Websites/blakejh.dev/static/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,10 +78,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\static\images" />
+      <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\static" />
+      <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\src\routes\about" />
+      <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\src\routes\contact" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\static\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.218" />
       </set>
     </attachedChunks>
   </component>
@@ -64,7 +106,11 @@
       <workItem from="1746503446313" duration="1510000" />
       <workItem from="1746527983650" duration="2053000" />
       <workItem from="1746576818260" duration="2964000" />
-      <workItem from="1746932442668" duration="4136000" />
+      <workItem from="1746932442668" duration="4765000" />
+      <workItem from="1746945833586" duration="2700000" />
+      <workItem from="1747087332938" duration="161000" />
+      <workItem from="1751057814006" duration="15000" />
+      <workItem from="1753678121848" duration="8114000" />
     </task>
     <servers />
   </component>
