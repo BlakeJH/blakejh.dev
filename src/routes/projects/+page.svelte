@@ -9,23 +9,15 @@
                     title="Reverb Client"
                     description="A Modern Custom Minecraft PvP Client"
                     image="/images/reverb.png"
-                    link=""
+                    link="https://github.com/LofizKittyCat/ReverbClient"
             />
         </li>
         <li>
             <ProjectCard
-                    title="Reverb Client"
-                    description="A Modern Custom Minecraft PvP Client"
-                    image="/images/background.png"
-                    link=""
-            />
-        </li>
-        <li>
-            <ProjectCard
-                    title="Reverb Client"
-                    description="A Modern Custom Minecraft PvP Client"
-                    image="/images/background.png"
-                    link=""
+                    title="NoHurtCam+"
+                    description="A Minecraft NoHurtCam Mod For 1.19 - 1.20.2"
+                    image="/images/nohurtcam.png"
+                    link="https://modrinth.com/mod/nohurtcam+"
             />
         </li>
     </ul>

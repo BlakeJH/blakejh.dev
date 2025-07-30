@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c9b3928-7be4-4c12-b5a9-fdf55d8dc46c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/components/ProjectCard.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/about/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/contact/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/projects/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/reverb.png" afterDir="false" />
+    <list default="true" id="4c9b3928-7be4-4c12-b5a9-fdf55d8dc46c" name="Changes" comment="Massive Website Overhaul">
+      <change afterPath="$PROJECT_DIR$/static/images/nohurtcam.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/components/NavButton.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/NavButton.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/components/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/Navbar.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/about/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/contact/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/contact/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/projects/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/projects/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +51,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/blake/Desktop/Programing Dev/Javascript - HTML - CSS/Web Dev/Websites/blakejh.dev/static/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\blake\\Desktop\\Programing Dev\\Javascript - HTML - CSS\\Web Dev\\Websites\\blakejh.dev\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\blake\\Desktop\\Programing Dev\\Javascript - HTML - CSS\\Web Dev\\Websites\\blakejh.dev\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/blake/Desktop/Programing Dev/Javascript - HTML - CSS/Web Dev/Websites/blakejh.dev/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\blake\\Desktop\\Programing Dev\\Javascript - HTML - CSS\\Web Dev\\Websites\\blakejh.dev\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\blake\\Desktop\\Programing Dev\\Javascript - HTML - CSS\\Web Dev\\Websites\\blakejh.dev\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\blake\Desktop\Programing Dev\Javascript - HTML - CSS\Web Dev\Websites\blakejh.dev\static\images" />
@@ -92,7 +85,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.361" />
       </set>
     </attachedChunks>
   </component>
@@ -111,10 +104,26 @@
       <workItem from="1747087332938" duration="161000" />
       <workItem from="1751057814006" duration="15000" />
       <workItem from="1753678121848" duration="8114000" />
+      <workItem from="1753706809968" duration="321000" />
+      <workItem from="1753750375446" duration="668000" />
+      <workItem from="1753832875305" duration="1063000" />
     </task>
+    <task id="LOCAL-00001" summary="Massive Website Overhaul">
+      <option name="closed" value="true" />
+      <created>1753706974647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753706974647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Massive Website Overhaul" />
+    <option name="LAST_COMMIT_MESSAGE" value="Massive Website Overhaul" />
   </component>
 </project>
